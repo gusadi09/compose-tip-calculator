@@ -88,7 +88,7 @@ fun EditNumberField(
         value = value,
         label = {
             Text(
-                text = stringResource(id = R.string.cost_of_service
+                text = stringResource(id = R.string.bill_amount
                 )
             )},
         modifier = Modifier
